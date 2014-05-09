@@ -36,10 +36,10 @@ image::images/fuga.jpg[scalewidth="70%"]
 
 * Treinos do dia:
 
-. Manhã:
-.. http://connect.garmin.com/activity/495939675[Corrida de 6,16 Km].
+. Manhã: (Taguaparque)
+.. http://connect.garmin.com/activity/495939675[6,16 Km de corrida].
 .. Exercícios funcionais.
-.. http://connect.garmin.com/activity/495939678[Corrida de 5,12 Km].
+.. http://connect.garmin.com/activity/495939678[5,12 Km de corrida].
 
 === Terça (dia 39)
 
@@ -57,6 +57,11 @@ Não me alimentar adequadamente, nas horas e quantidades certas, é o que me faz
 
 . *Alimente-se direito*! Segure! Não enfie o pé na jaca!
 
+* Treinos do dia:
+
+. Manhã: (Autódromo)
+.. http://connect.garmin.com/activity/495939685[60,30 Km de ciclismo].
+
 === Quarta (dia 38)
 
 Acordei indisposto! Sim: um Ironman também não está disposto todos os dias.
@@ -67,16 +72,42 @@ Ter um plano B, um C, um D ... é importante! Muitas vezes não dá para cumprir
 
 Para elaborar um plano B, eu pensei em algo que poderia me dar prazer. Talvez, alterar o percurso na expectativa de rever e/ou correr com algum amigo. Então, ao invés de subir a rua de casa em direção ao Taguaparque, que é parte dos meus percursos de corridas, desci em direção ao parque de Águas Claras.
 
+Cheguei no parque após 7 Km de corrida. Em seguida fiz alguns exercícios. Quando acabei, já me preparando mentalmente para o retorno para casa, encontrei um amigo da equipe Zero61 (e do Ironman de 2013) correndo: o cirurgião plástico http://www.drgeneslopes.com.br/[Dr. Genês Lopes] (apelidado, pelos amigos, de Dr. Rey). Então, ao invés de voltar, resolvi acompanhá-lo por mais 4 Km de corrida, dentro do parque. Enquanto corríamos, conversávamos sobre nossos treinos e preparação para as provas de Ironman deste ano. Foi muito bom acompanhá-lo! =)
+
 Os últimos quatro kilômetros de corrida foram penosos: corri, andei (repeti isso n x). Mas, eu cheguei correndo. E, isso é importante: faltando um kilômetro ou menos, mesmo aparentando estar completamente sem forças, ao avistar a linha de chegada eu quero me apresentar vitorioso. E, um vitorioso não chega cabisbaixo. Ele abafa suas dores no meio do caminho, retira energia sabe lá de onde e, na chegada, tenta apresentar-se bem. Eu, pelo menos, quero que me vejam assim.
 
 * Lições do dia:
 
 . *Supere os erros* do dia anterior. Não deixe os problemas de ontem não pode te abater no dia de hoje.
 . *Seja adaptável e rápido* para elaborar planos B, C e até mesmo D, se necessário.
-. *Seja automotivado*
+. *Seja automotivado*.
+. *Correr com amigos* ao lado é muito mais divertido que correr sozinho!
 . *Cruze a linha de chegada aparentando-se bem*. Mesmo que morrendo ...
+
+* Treinos do dia:
+
+. Manhã: (Ida/volta até o parque de Águas Claras)
+.. http://connect.garmin.com/activity/495939690[18,07 Km de corrida].
 
 === Quinta (dia 37)
 
 Eu já tinha toda a logística preparada para a manhã desse dia. Na noite anterior, arrumei minha mochila e coloquei tudo o que não seria mais manipulado pela manhã, dentro do carro. Para o treino da manhã desse dia, isso envolvia acomodar a bike, as sapatilhas do pedal, as luvas e o capacete. A mochila, deveria conter os itens necessários para, após o treino, tomar um banho e vestir-me para mais um dia de trabalho.
+
+Cheguei no autódromo cedo e para variar, em relação ao treino de terça, resolvi fazer o percurso completo do autódromo (passando pelas vias internas ao invés de só fazer seu contorno). Dessa forma, cada volta tem cerca de 5,40 Km. Fiz 11 voltas totalizando, como na terça, 60 Km.
+
+O Autódromo não oferece local para banho. Então, para isso, terminado treino eu vou até o parque da cidade. Nele, o vestiário foi reformado e há, agora, até mesmo chuveiro quente para um banho 0800. =)
+
+* Lições do dia:
+
+. *Prepare, com antecedência, as coisas necessárias* para teu treino.
+. *Organize-se na logística*.
+
+* Treinos do dia:
+
+. Manhã: (Autódromo)
+.. http://connect.garmin.com/activity/495939697[60 Km de ciclismo].
+
+=== Sexta (dia 36)
+
+Minhas dificuldades nesse momento são relativas ao aspecto financeiro. Participar de uma prova fora do país não será nada fácil para mim sob esse aspecto. Mas, eu sou otimista, trabalhador, e tenho a certeza absoluta de que conseguirei realizar essa viagem/sonho.
 
