@@ -12,7 +12,11 @@ Além de utilizar essas duas ferramentas, para editar e gerar o PDF deste livro,
 
 === Como ele está organizado?
 
-Apresento, abaixo, a saída de um comando executado num shell do Linux para gerar o calendário dos meses de maio e junho de 2014. Nesse calendário é possível observar um período de oito semanas compreendido entre o dia em que iniciei este livro (5 de maio) e o dia do Ironman (29 de junho). (_Por favor, não se assuste com meu modo http://pt.wikipedia.org/wiki/Geek[geek] de apresentar certas coisas. Eu trabalho como desenvolvedor de programas para computadores, utilizando Linux e OS X. Isso me faz ter esse lado que, para alguns, pode parecer meio complicado_).
+Apresento, logo abaixo, a saída de um comando executado num shell do Linux (nesse caso, uma versão do http://ubuntu-br.org/[Ubuntu]) para gerar o calendário dos meses de maio e junho de 2014. Nesse calendário é possível observar um período de oito semanas compreendido entre o dia em que iniciei este livro (5 de maio) e o dia do Ironman (29 de junho).
+
+Por favor, não se assuste com meu modo http://pt.wikipedia.org/wiki/Geek[geek] de apresentar certas coisas. Eu trabalho como desenvolvedor de programas para computadores, utilizando Linux e OS X. Isso me faz ter esse lado que, para alguns, pode parecer meio complicado.
+
+Então, segue o comando para gerar o calendário dos meses de maio e junho de 2014:
 
 ----
 $ ncal -M -m 5 -A1
