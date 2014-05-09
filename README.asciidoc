@@ -1,4 +1,4 @@
-== Livro: Ironman 2 - faltam só 2 meses!
+== Livro "Ironman - pensamentos e atitudes"
 
 Este repositório contém um livro que estou escrevendo, seguindo o processo de produção de livros elaborado por http://github.com/edusantana[Eduardo Santanta] para a UFPB.
 
