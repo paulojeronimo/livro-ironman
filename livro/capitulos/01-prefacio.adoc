@@ -1,0 +1,10 @@
+[[prefacio]]
+[preface]
+== Prefácio
+
+TODO
+
+=== Público alvo
+
+Este livro é para qualquer pessoa, atleta ou não, que se interesse em saber o que se passa pela cabeça de um "maluco" que estabelece uma meta de concluir um Ironman.
+

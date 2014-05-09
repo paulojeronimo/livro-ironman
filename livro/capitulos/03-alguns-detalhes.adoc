@@ -1,0 +1,39 @@
+== Alguns detalhes sobre este livro
+
+=== Para curiosos (e técnicos): como ele está sendo escrito?
+
+Eu estou escrevendo este livro utilizando as ferramentas http://vim.org[Vim] e http://www.methods.co.nz/asciidoc/[AsciiDoc].
+
+O Vim é um editor de textos, presente em distribuições Linux e em vários outros sistemas operacionais. Considero-o o melhor editor de textos do mundo. =)
+
+O AsciiDoc é uma ferramenta que lê um documento escrito em texto puro e, baseando-se em marcas e caracteres diferenciados, inseridos nesse documento, gera sua versão no formato PDF (ou vários outros). AsciiDoc tem sido muito utilizado no meio acadêmico e por editoras no mundo todo para a geração de livros.
+
+Além de utilizar essas duas ferramentas, para editar e gerar o PDF deste livro, eu também estou utilizando o http://producao.virtual.ufpb.br/books/edusantana/producao-computacao-ead-ufpb/livro/livro.chunked/index.html[processo ágil de produção de livros], desenvolvido por https://github.com/edusantana[Eduardo Santana], da Universidade Federal da Paraíba (UFPB). Esse processo, escrito para a produção de materiais didáticos foi proposto e adotado no Curso de Licenciatura em Computação a distância nessa universidade. Para utilizá-lo, com a finalidade de gerar o PDF do livro, uma das formas é disponibilizar o código fonte do livro (texto em AsciiDoc) em minha conta no GitHub e, então, acessar a página http://producao.virtual.ufpb.br/github.html, informar a localização do repositório deste livro (https://github.com/paulojeronimo/livro-ironman) e clicar no botão "Gerar PDF, HTML e slides". Outra forma, que utilizo com mais frequência, é fazer a geração do PDF através da instalação das mesmas ferramentas utilizadas no servidor que executa essa página de geração de livros da UFPB.
+
+=== Como ele está organizado?
+
+Apresento, abaixo, a saída de um comando executado num shell do Linux para gerar o calendário dos meses de maio e junho de 2014. Nesse calendário é possível observar um período de oito semanas compreendido entre o dia em que iniciei este livro (5 de maio) e o dia do Ironman (29 de junho). (_Por favor, não se assuste com meu modo http://pt.wikipedia.org/wiki/Geek[geek] de apresentar certas coisas. Eu trabalho como desenvolvedor de programas para computadores, utilizando Linux e OS X. Isso me faz ter esse lado que, para alguns, pode parecer meio complicado_).
+
+----
+$ ncal -M -m 5 -A1
+    Maio 2014         Junho 2014        
+Se     5 12 19 26        2  9 16 23 30
+Te     6 13 20 27        3 10 17 24   
+Qu     7 14 21 28        4 11 18 25   
+Qu  1  8 15 22 29        5 12 19 26   
+Se  2  9 16 23 30        6 13 20 27   
+Sá  3 10 17 24 31        7 14 21 28   
+Do  4 11 18 25        1  8 15 22 29   
+----
+
+Esse calendário está apresentado, como você pode notar, com a semana sendo iniciada às segundas. Uma explicação para isso é que eu começo a contar minha semana de treinamento nesse dia. Outra explicação é que, geralmente, provas de triatlo são realizadas no domingo. Então, contamos esse como o último dia de uma semana de treinamentos.
+
+Na organização desse livro eu estou dispondo os capítulos em ordem semanal descrecente. Dessa forma, eu referencio a semana oito (8) como sendo a iniciada na segunda (dia 5 de maio) e terminada no domingo (dia 11). A semana 7 vai de 12 e a 18 e, assim por diante. Sendo assim, a semana 1 começará no dia 23 de junho e terminará no dia 29, o dia do Ironman.
+
+Além de dispor os capítulos em ordem semanal descrescente, esse livro apresenta sub tópicos onde falo sobre assuntos que acho importantes no contexto da vida de um Ironman. O primeiro deles, dentro da semana 8, é o subtópico "Planejamento e Organização".
+
+Então, dentro de um capítulo semanal, você encontrará subtópicos organizados em assuntos. Esses subtópicos podem, inclusive, se repetir em próximas semanas, complementando o que já foi escrito para as semanas anteriores.
+
+Eu acho legal essa questão de contar as semanas em ordem descrescente, pois, assim como várias coisas nessa vida, uma contagem regressiva nos deixa eufóricos. Virada do ano, minutos ou segundos para uma largada de prova, etc. ;)
+
+

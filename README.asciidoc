@@ -1,0 +1,6 @@
+== Livro: Ironman 2 - faltam só 2 meses!
+
+Este repositório contém um livro que estou escrevendo, seguindo o processo de produção de livros elaborado por http://github.com/edusantana[Eduardo Santanta] para a UFPB.
+
+Para conhecer esse processo de produção consulte https://github.com/edusantana/producao-computacao-ead-ufpb.
+
