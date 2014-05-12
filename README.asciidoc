@@ -4,3 +4,4 @@ Este repositório contém um livro que estou escrevendo, seguindo o processo de 
 
 Para conhecer esse processo de produção consulte https://github.com/edusantana/producao-computacao-ead-ufpb.
 
+Para gerar o PDF deste livro, acesse a página http://producao.virtual.ufpb.br/github.html. Em seguida, informe o endereço deste repositório e clique no botão "Gerar PDF, HTML e Slides". O último PDF gerado, utilizando esse procedimento, estará disponível em http://producao.virtual.ufpb.br/books/paulojeronimo/livro-ironman/livro/livro.pdf.
