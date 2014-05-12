@@ -1,14 +1,27 @@
 == Alguns detalhes sobre este livro
 
-=== Para curiosos (e técnicos): como ele está sendo escrito?
+=== Por que resolvi escrevê-lo?
+
+Quando apresentei este livro para minha esposa pela primeira vez, sua primeira pergunta foi a que faço no título desse tópico. =) Como citei, além de retornar a escrita de um tipo de texto que me dá prazer e de esse ser um projeto pessoal que eu já tinha em mente mesmo antes de meu primeiro Ironman, várias outras coisas me motivam a escrever este livro. Mas, dentre elas, acredito que os principais motivos sejam:
+
+.Manter lembranças sobre algumas semanas de meu treinamento para o Ironman e sobre o que vivi nesse período.
+.Compartilhar experiência e/ou dicas com outras pessoas que estejam ingressando no triatlo, no intuito de instruir ou motivar novos atletas adeptos a esse esporte.
+
+Além disso, escrever sobre meus treinos me traz, ainda, uma motivação extra para que eu possa realizá-los pois, se eu não treinar, como poderei escrever? Entende? O contrário é possível e, foi assim em meu primeiro Ironman. Não porque eu quisesse mas porque eu realmente, apesar de querer, não estava tão inspirado quanto agora.
+
+Também, no futuro, quem sabe apareça algum convite para que eu escreva em alguma revista/site sobre triatlo ou que fale sobre motivação, determinação e as demais coisas que escrevo nesse livro? =) Quem sabe eu aceite? :) Tenho vontade de escrever uma palestra motivacional compartilhando minhas experiências e aprendizado para provas como o Ironman. Creio que o https://www.facebook.com/ossobucobsb[Ossobuco] talvez seja um bom lugar para falar sobre isso algum dia.
+
+Outro motivo, mais real e imediato, é que, no final de maio de 2014, estarei participando de um evento em que falarei sobre as ferramentas que estou utilizando para escrever este livro. Então, também estou utilizando-o como um _case_ de demonstração dessas ferramentas.
+
+=== Que ferramentas estou utilizando para escrevê-lo?
 
 Eu estou escrevendo este livro utilizando as ferramentas http://vim.org[Vim] e http://www.methods.co.nz/asciidoc/[AsciiDoc].
 
-O Vim é um editor de textos, presente em distribuições Linux e em vários outros sistemas operacionais. Considero-o o melhor editor de textos do mundo. =)
+O Vim é um editor de textos, presente em distribuições Linux e em vários outros sistemas operacionais. Considero-o o melhor editor de textos do mundo. =) Talvez eu goste dele por ter esse perfil de desenvolvedor de software e por ser atraído por ferramentas que me tragam praticidade e velocidade para atingir meus objetivos, mesmo que a custa de uma curva de aprendizagem maior. Além do mais, eu sempre apresento-me como um cara contrário ao uso dessas ferramentas de escritório (terminadas com "Office"). O Word é um deles. Nossa ... como já passei raiva tentando utilizar esse lixo.
 
-O AsciiDoc é uma ferramenta que lê um documento escrito em texto puro e, baseando-se em marcas e caracteres diferenciados, inseridos nesse documento, gera sua versão no formato PDF (ou vários outros). AsciiDoc tem sido muito utilizado no meio acadêmico e por editoras no mundo todo para a geração de livros.
+O AsciiDoc é uma ferramenta que lê um documento escrito em texto puro e, baseando-se em marcas e caracteres diferenciados, inseridos nesse documento, gera sua versão no formato PDF (ou vários outros). AsciiDoc tem sido muito utilizado no meio acadêmico e por algumas editoras para a geração de livros. Exemplos incluem a http://www.oreilly.com/authors/welcome/asciidoc.csp[editora O'Reilly] e a http://www.ufpb.br/[Universidade Federal da Paraíba] (UFPB). Além disso, o https://github.com[GitHub], um portal para a publicação e gerenciamento de versões de softwares contendo mais de 5 milhões de repositórios (projetos), também http://asciidoctor.org/news/2013/01/30/asciidoc-returns-to-github/[suporta o seu uso desde janeiro desde dezembro de 2012].
 
-Além de utilizar essas duas ferramentas, para editar e gerar o PDF deste livro, eu também estou utilizando o http://producao.virtual.ufpb.br/books/edusantana/producao-computacao-ead-ufpb/livro/livro.chunked/index.html[processo ágil de produção de livros], desenvolvido por https://github.com/edusantana[Eduardo Santana], da Universidade Federal da Paraíba (UFPB). Esse processo, escrito para a produção de materiais didáticos foi proposto e adotado no Curso de Licenciatura em Computação a distância nessa universidade. Para utilizá-lo, com a finalidade de gerar o PDF do livro, uma das formas é disponibilizar o código fonte do livro (texto em AsciiDoc) em minha conta no GitHub e, então, acessar a página http://producao.virtual.ufpb.br/github.html, informar a localização do repositório deste livro (https://github.com/paulojeronimo/livro-ironman) e clicar no botão "Gerar PDF, HTML e slides". Outra forma, que utilizo com mais frequência, é fazer a geração do PDF através da instalação das mesmas ferramentas utilizadas no servidor que executa essa página de geração de livros da UFPB.
+Além de utilizar essas duas ferramentas, para editar e gerar o PDF deste livro, eu também estou utilizando o http://producao.virtual.ufpb.br/books/edusantana/producao-computacao-ead-ufpb/livro/livro.chunked/index.html[processo ágil de produção de livros], desenvolvido por https://github.com/edusantana[Eduardo Santana], da UFPB. Esse processo, escrito para a produção de materiais didáticos foi proposto e adotado no Curso de Licenciatura em Computação a distância nessa universidade. Para utilizá-lo, com a finalidade de gerar o PDF do livro, uma das formas é disponibilizar o código fonte do livro (texto em AsciiDoc) em minha conta no GitHub e, então, acessar a página http://producao.virtual.ufpb.br/github.html, informar a localização do repositório deste livro (https://github.com/paulojeronimo/livro-ironman) e clicar no botão "Gerar PDF, HTML e slides". Outra forma, que utilizo com mais frequência, é fazer a geração do PDF através da instalação das mesmas ferramentas utilizadas no servidor que executa essa página de geração de livros da UFPB.
 
 === Como ele está organizado?
 
