@@ -2,22 +2,22 @@
 
 === Por que resolvi escrevê-lo?
 
-Quando apresentei este livro para minha esposa pela primeira vez, sua primeira pergunta foi a que faço no título desse tópico. =) Como citei, além de retornar a escrita de um tipo de texto que me dá prazer e de esse ser um projeto pessoal que eu já tinha em mente mesmo antes de meu primeiro Ironman, várias outras coisas me motivam a escrever este livro. Mas, dentre elas, acredito que os principais motivos sejam:
+Quando apresentei este livro para minha esposa, sua primeira pergunta para mim foi a que faço no título desse tópico. =) Como citei anteriormente, além de fazer-me retornar a escrita de um tipo de texto que me dá prazer e de esse ser um projeto pessoal que eu já tinha em mente, mesmo antes de meu primeiro Ironman, várias outras coisas me motivam escrever. Mas, dentre elas, acredito que as principais sejam:
 
-.Manter lembranças sobre algumas semanas de meu treinamento para o Ironman e sobre o que vivi nesse período.
-.Compartilhar experiência e/ou dicas com outras pessoas que estejam ingressando no triatlo, no intuito de instruir ou motivar novos atletas adeptos a esse esporte.
+* Manter lembranças sobre algumas semanas de meu treinamento para o Ironman e sobre o que vivi nesse período.
+* Compartilhar experiência e/ou dicas com outros atletas amadores que estejam ingressando no triatlo, no intuito de instruir ou motivar adeptos desse esporte.
 
 Além disso, escrever sobre meus treinos me traz, ainda, uma motivação extra para que eu possa realizá-los pois, se eu não treinar, como poderei escrever? Entende? O contrário é possível e, foi assim em meu primeiro Ironman. Não porque eu quisesse mas porque eu realmente, apesar de querer, não estava tão inspirado quanto agora.
 
-Também, no futuro, quem sabe apareça algum convite para que eu escreva em alguma revista/site sobre triatlo ou que fale sobre motivação, determinação e as demais coisas que escrevo nesse livro? =) Quem sabe eu aceite? :) Tenho vontade de escrever uma palestra motivacional compartilhando minhas experiências e aprendizado para provas como o Ironman. Creio que o https://www.facebook.com/ossobucobsb[Ossobuco] talvez seja um bom lugar para falar sobre isso algum dia.
+Também, no futuro, quem sabe apareça algum convite para que eu escreva em alguma revista/site sobre triatlo ou que fale sobre motivação, determinação e as demais coisas que escrevo nesse livro? =) Talvez eu aceite! :) Além disso, tenho vontade de escrever uma palestra motivacional compartilhando minhas experiências e aprendizado para provas como o Ironman. Creio que um dos primeiros locais em que eu gostaria de estar falando sobre isso, algum dia, seja no https://www.facebook.com/ossobucobsb[Ossobuco].
 
-Outro motivo, mais real e imediato, é que, no final de maio de 2014, estarei participando de um evento em que falarei sobre as ferramentas que estou utilizando para escrever este livro. Então, também estou utilizando-o como um _case_ de demonstração dessas ferramentas.
+Outro motivo, mais real e imediato, é que no final de maio de 2014 estarei participando de um evento em que falarei sobre as ferramentas que estou utilizando para gerar e tornar público, um PDF desse livro. Então, também estou utilizando-o como um _case_ de demonstração dessas ferramentas.
 
 === Que ferramentas estou utilizando para escrevê-lo?
 
 Eu estou escrevendo este livro utilizando as ferramentas http://vim.org[Vim] e http://www.methods.co.nz/asciidoc/[AsciiDoc].
 
-O Vim é um editor de textos, presente em distribuições Linux e em vários outros sistemas operacionais. Considero-o o melhor editor de textos do mundo. =) Talvez eu goste dele por ter esse perfil de desenvolvedor de software e por ser atraído por ferramentas que me tragam praticidade e velocidade para atingir meus objetivos, mesmo que a custa de uma curva de aprendizagem maior. Além do mais, eu sempre apresento-me como um cara contrário ao uso dessas ferramentas de escritório (terminadas com "Office"). O Word é um deles. Nossa ... como já passei raiva tentando utilizar esse lixo.
+O Vim é um editor de textos, presente em distribuições Linux e em vários outros sistemas operacionais. Considero-o o melhor editor de textos do mundo. =) Talvez eu goste dele por ter esse perfil de desenvolvedor de software e por ser atraído por ferramentas que me tragam praticidade e velocidade para atingir meus objetivos, mesmo que à custa de uma curva de aprendizagem maior. Além do mais, eu sempre apresento-me como um cara irritado com o uso dessas ferramentas de escritório (terminadas com a palavrar "_Office_"). O Word é um deles. Raios! Como já passei raiva tentando utilizar esse lixo.
 
 O AsciiDoc é uma ferramenta que lê um documento escrito em texto puro e, baseando-se em marcas e caracteres diferenciados, inseridos nesse documento, gera sua versão no formato PDF (ou vários outros). AsciiDoc tem sido muito utilizado no meio acadêmico e por algumas editoras para a geração de livros. Exemplos incluem a http://www.oreilly.com/authors/welcome/asciidoc.csp[editora O'Reilly] e a http://www.ufpb.br/[Universidade Federal da Paraíba] (UFPB). Além disso, o https://github.com[GitHub], um portal para a publicação e gerenciamento de versões de softwares contendo mais de 5 milhões de repositórios (projetos), também http://asciidoctor.org/news/2013/01/30/asciidoc-returns-to-github/[suporta o seu uso desde janeiro desde dezembro de 2012].
 
